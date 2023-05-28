@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohan Cheera</h1>
 <h3 align="center">Future data scientist, driven by passion and unwavering commitment.</h3>
 
-
-
 👨‍💻 Student of BE in Artificial Intelligence and Data Science | Passionate about leveraging data to drive intelligent solutions
 
 🔬 Exploring the fascinating world of AI and data science, with a keen interest in applying advanced techniques to solve real-world problems.
