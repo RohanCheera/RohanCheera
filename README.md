@@ -19,7 +19,7 @@
 📚 Actively engaged in coursework and projects related to AI and data science, honing my skills and gaining practical experience.
 
 📫 Let's connect:
-- LinkedIn: https://www.linkedin.com/in/rohan-cheera-0b2ab1238
+- LinkedIn: https://www.linkedin.com/in/rohan-cheera
 - Email: cheerarohan@gmail.com
 
 
