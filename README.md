@@ -1,11 +1,16 @@
 <h1 align="center">Hi 👋, I'm Rohan Cheera</h1>
 <h3 align="center">Future data scientist, driven by passion and unwavering commitment.</h3>
 
+<!-- Custom HTML and CSS to make the image full width -->
+<div style="text-align: center;">
+    <img src="https://leetcard.jacoblin.cool/Rohan_Cheera?theme=dark&font=Kulim%20Park&ext=heatmap" style="width: 100%; max-width: 1000px;">
+</div>
+
 👨‍💻 Student of BE in Artificial Intelligence and Data Science | Passionate about leveraging data to drive intelligent solutions
 
 🔬 Exploring the fascinating world of AI and data science, with a keen interest in applying advanced techniques to solve real-world problems.
 
-🎓 Studying BE in Artificial Intelligence and Data Science at CBIT College, Hyderabad | Currently in 3rd year
+🎓 Studying BE in Artificial Intelligence and Data Science at CBIT College, Hyderabad | Currently in Final year.
 
 💡 Eager to learn and develop expertise in various aspects of AI and data science, including machine learning, deep learning, natural language processing, and data visualization.
 🔎 Areas of Interest:
@@ -20,10 +25,6 @@
 📫 Let's connect:
 - LinkedIn: https://www.linkedin.com/in/rohan-cheera
 - Email: cheerarohan@gmail.com
-
-  # My Leetcode Profile
-  ![LeetCode Stats](https://leetcard.jacoblin.cool/Rohan_Cheera?theme=dark&font=Margarine&ext=heatmap)
-
 
 
 🌟 Open to collaborations and internships in the field of AI and data science. Let's make a difference through intelligent data-driven solutions!
