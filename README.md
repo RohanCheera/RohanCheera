@@ -23,8 +23,8 @@
 - Email: cheerarohan@gmail.com
 
   # My Leetcode Profile
-  
-      ![LeetCode Stats](https://leetcard.jacoblin.cool/Rohan_Cheera?theme=dark&font=Margarine&ext=heatmap)
+
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/Rohan_Cheera?theme=dark&font=Margarine&ext=heatmap)
 
 
 
