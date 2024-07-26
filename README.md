@@ -22,6 +22,10 @@
 - LinkedIn: https://www.linkedin.com/in/rohan-cheera
 - Email: cheerarohan@gmail.com
 
+  # My Leetcode Profile
+  
+      ![LeetCode Stats](https://leetcard.jacoblin.cool/Rohan_Cheera?theme=dark&font=Margarine&ext=heatmap)
+
 
 
 🌟 Open to collaborations and internships in the field of AI and data science. Let's make a difference through intelligent data-driven solutions!
