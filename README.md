@@ -8,7 +8,6 @@
 🎓 Studying BE in Artificial Intelligence and Data Science at CBIT College, Hyderabad | Currently in 3rd year
 
 💡 Eager to learn and develop expertise in various aspects of AI and data science, including machine learning, deep learning, natural language processing, and data visualization.
-![LeetCode Stats](https://leetcard.jacoblin.cool/Rohan_Cheera?theme=light&font=Noto%20Sans%20Kannada)
 🔎 Areas of Interest:
 - Machine Learning: Algorithms, Models, and Evaluation
 - Deep Learning: Neural Networks, CNNs, RNNs
@@ -23,7 +22,6 @@
 - Email: cheerarohan@gmail.com
 
   # My Leetcode Profile
-
   ![LeetCode Stats](https://leetcard.jacoblin.cool/Rohan_Cheera?theme=dark&font=Margarine&ext=heatmap)
 
 
